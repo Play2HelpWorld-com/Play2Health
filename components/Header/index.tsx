@@ -55,7 +55,7 @@ const Header = () => {
         <div className="flex w-full items-center justify-between xl:w-1/4">
           <a href="/" title="Home">
             <Image
-              src="/images/logo/logo-dark.png"
+              src="/images/logo/play2health_logo.png"
               alt="logo"
               width={119.03}
               height={30}
