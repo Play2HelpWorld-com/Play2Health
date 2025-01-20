@@ -17,7 +17,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image2,
     content:
-      "Play2Health is a dynamic gaming platform that turns your playtime into real-world rewards. Enjoy a variety of free games and earn tokens as you play.You can donate your tokens to support meaningful causes and organizations or withdraw them for your own use.",
+      "Play2Health is a dynamic gaming platform that turns your playtime into real-world rewards. Enjoy a variety of free games and earn tokens as you play.You can donate your tokens to support  use.",
   },
   {
     id: 3,
