@@ -9,7 +9,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Play2Health is a dynamic gaming platform that turns your playtime into real-world rewards. Enjoy a variety of free games and earn tokens as you play.You can donate your tokens to support meaningful causes and organizations or withdraw them for your own use.",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Play2Health is a dynamic gaming platform that turns your playtime into real-world rewards. Enjoy a variety of free games and earn tokens as you play.You can donate your tokens to support meaningful causes and organizations or withdraw them for your own use.",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Play2Health is a dynamic gaming platform that turns your playtime into real-world rewards. Enjoy a variety of free games and earn tokens as you play.You can donate your tokens to support meaningful causes and organizations or withdraw them for your own use..",
   },
   {
     id: 4,
@@ -33,6 +33,6 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Play2Health is a dynamic gaming platform that turns your playtime into real-world rewards. Enjoy a variety of free games and earn tokens as you play.You can donate your tokens to support meaningful causes and organizations or withdraw them for your own use..",
   },
 ];
